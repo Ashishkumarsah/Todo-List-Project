@@ -10,7 +10,7 @@ import React, { useState } from 'react';
 
 
 function App() {
-
+//ashish 
   const onDelete=(todo)=>{
     console.log("I am on delete",todo)
     setTodos(todos.filter((e)=>{
